@@ -1,4 +1,4 @@
-# READme
+#Sobre mi
 ### Hola 👋, Soy Maru
 #### Estudiante de Geografía que se acaba de iniciar en el mundo de los datos
 ![Estudiante de Geografía que se acaba de iniciar en el mundo de los datos](https://www.fonvirtual.com/blog/wp-content/uploads/boton-blog-2.png)
